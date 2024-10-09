@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pageanalyze.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pageanalyze.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pagedoctors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pagedoctors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|d:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\medcooperative\\medcooperative\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pageeditinformation\\pageeditanalyze.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pageeditinformation\\pageeditanalyze.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pagesaddinfarmation\\pageadddoctors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pagesaddinfarmation\\pageadddoctors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pagepatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pagepatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pagesaddinfarmation\\pageaddpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pagesaddinfarmation\\pageaddpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pagesaddinfarmation\\pageaddanalyze.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pagesaddinfarmation\\pageaddanalyze.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pageeditinformation\\pageeditpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pageeditinformation\\pageeditpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pageeditinformation\\pageeditdoctors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pageeditinformation\\pageeditdoctors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pageeditinformation\\pageeditanalyze.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pageeditinformation\\pageeditanalyze.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pagedoctors.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pagedoctors.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pagesaddinfarmation\\pageadddoctors.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pagesaddinfarmation\\pageadddoctors.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\menus\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\menus\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pageeditinformation\\pageeditdoctors.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pageeditinformation\\pageeditdoctors.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pagesaddinfarmation\\pageaddanalyze.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pagesaddinfarmation\\pageaddanalyze.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pageeditinformation\\pageeditpatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pageeditinformation\\pageeditpatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pageanalyze.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pageanalyze.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pagesaddinfarmation\\pageaddpatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pagesaddinfarmation\\pageaddpatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\pagepatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\pagepatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\classes\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\classes\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\classes\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\classes\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\classes\\datagridloaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\classes\\datagridloaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\medcooperative\\pages\\menus\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1D48F-19AB-49CB-9823-1C541BC24F78}|MedCooperative\\MedCooperative.csproj|solutionrelative:medcooperative\\pages\\menus\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageAddDoctors.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddDoctors.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddDoctors.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddDoctors.xaml",
+              "RelativeToolTip": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddDoctors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-24T17:59:21.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageEditAnalyze.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditAnalyze.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PageEditInformation\\PageEditAnalyze.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditAnalyze.xaml",
+              "RelativeToolTip": "MedCooperative\\Pages\\PageEditInformation\\PageEditAnalyze.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-25T15:42:37.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageAddAnalyze.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddAnalyze.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddAnalyze.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddAnalyze.xaml",
+              "RelativeToolTip": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddAnalyze.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-25T08:16:50.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageAnalyze.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageAnalyze.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PageAnalyze.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageAnalyze.xaml",
+              "RelativeToolTip": "MedCooperative\\Pages\\PageAnalyze.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-21T14:42:54.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageAddPatient.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddPatient.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddPatient.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddPatient.xaml",
+              "RelativeToolTip": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddPatient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-25T10:52:50.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageEditDoctors.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditDoctors.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PageEditInformation\\PageEditDoctors.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditDoctors.xaml",
+              "RelativeToolTip": "MedCooperative\\Pages\\PageEditInformation\\PageEditDoctors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-24T18:36:09.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageEditPatient.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditPatient.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PageEditInformation\\PageEditPatient.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditPatient.xaml",
+              "RelativeToolTip": "MedCooperative\\Pages\\PageEditInformation\\PageEditPatient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-25T10:53:02.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\MainWindow.xaml",
+              "RelativeToolTip": "MedCooperative\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-21T10:19:36.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageDoctors.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageDoctors.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PageDoctors.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageDoctors.xaml",
+              "RelativeToolTip": "MedCooperative\\Pages\\PageDoctors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-21T14:43:36.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagePatient.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagePatient.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PagePatient.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagePatient.xaml",
+              "RelativeToolTip": "MedCooperative\\Pages\\PagePatient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-21T14:43:32.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PageDoctors.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageDoctors.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PageDoctors.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageDoctors.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\Pages\\PageDoctors.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGMAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-21T17:17:04.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PageAddDoctors.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddDoctors.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddDoctors.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddDoctors.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddDoctors.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAACwAAAAqAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-24T18:06:10.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageEditAnalyze.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditAnalyze.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PageEditInformation\\PageEditAnalyze.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditAnalyze.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\Pages\\PageEditInformation\\PageEditAnalyze.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwEcAAAA0AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-25T15:43:06.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-21T10:19:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\Menus\\Menu.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\Menus\\Menu.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\Menus\\Menu.xaml",
+              "RelativeToolTip": "MedCooperative\\Pages\\Menus\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-21T12:47:47.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PageAddAnalyze.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddAnalyze.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddAnalyze.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddAnalyze.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddAnalyze.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDEAAABuAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-25T18:03:08.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PageEditPatient.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditPatient.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PageEditInformation\\PageEditPatient.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditPatient.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\Pages\\PageEditInformation\\PageEditPatient.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwEsAAAAjAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-25T11:53:54.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PageEditDoctors.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditDoctors.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PageEditInformation\\PageEditDoctors.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageEditInformation\\PageEditDoctors.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\Pages\\PageEditInformation\\PageEditDoctors.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAwwFAAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-24T18:40:00.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PageAnalyze.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageAnalyze.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PageAnalyze.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PageAnalyze.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\Pages\\PageAnalyze.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwDIAAABRAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-24T17:44:08.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PageAddPatient.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddPatient.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddPatient.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagesAddInfarmation\\PageAddPatient.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\Pages\\PagesAddInfarmation\\PageAddPatient.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwCkAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-25T15:49:52.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PagePatient.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagePatient.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\PagePatient.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\PagePatient.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\Pages\\PagePatient.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAABnAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-24T17:44:06.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Connector.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Classes\\Connector.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Classes\\Connector.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Classes\\Connector.cs",
+              "RelativeToolTip": "MedCooperative\\Classes\\Connector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABZAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-21T10:55:21.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Navigator.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Classes\\Navigator.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Classes\\Navigator.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Classes\\Navigator.cs",
+              "RelativeToolTip": "MedCooperative\\Classes\\Navigator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-21T10:55:13.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataGridLoaded.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Classes\\DataGridLoaded.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Classes\\DataGridLoaded.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Classes\\DataGridLoaded.cs",
+              "RelativeToolTip": "MedCooperative\\Classes\\DataGridLoaded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-21T10:56:01.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\App.config",
+              "RelativeDocumentMoniker": "MedCooperative\\App.config",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\App.config",
+              "RelativeToolTip": "MedCooperative\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFlSURBVDhPpZO9qsJAEIWPqyaFjQha2MUHsNDK1p/eRgsbg1Z2UfAx/AEfwVIb8TksfAGxSBAFJY2FpBiddQ1XvOBe7gfLsgfmMJM5wX\u002BJqBu9Xo/O57N6fWKaJvr9PgqFQljDhI9ms0mTyUS9PuHieDyOwWCAYrEY1gl1axEEAcbjMTabDSnpbwYMm0ynU1yvV2kSk6oGP8fjcV6EHcxmMySTSSQSCUSjUaV\u002BRxqcTid6fESUSiU5o2EY2ibieDxSJpOJcAdcNJ/PZTe8Nh1Eq9XCdrulfD4fqdVqUlyv17ILHQSHx7ZtDIdDWiwWT1HoL0fU63X4vo/lcqmkx2piMVwuFxmcbwjHcdDpdJBOp\u002BXJZrM4HA6yq9vtpmXyhuu6VK1WybIsKpfLtN/vibfkeV54OPavIL39GC/YpN1uY7fbIZfLYbVaodvtguiZ4FQqhdFoxJn5tV7CJpVKhRqNRpj7T4A7TASPsDpkW/8AAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-21T12:23:10.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\App.xaml",
+              "RelativeDocumentMoniker": "MedCooperative\\App.xaml",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\App.xaml",
+              "RelativeToolTip": "MedCooperative\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-21T10:54:18.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\Menus\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "MedCooperative\\Pages\\Menus\\Menu.xaml.cs",
+              "ToolTip": "D:\\\u0436\u0437\u0449\u043B\u0448\u044C\\anayatov\\MedCooperative\\MedCooperative\\Pages\\Menus\\Menu.xaml.cs",
+              "RelativeToolTip": "MedCooperative\\Pages\\Menus\\Menu.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawCQAAAA9AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-21T14:05:08.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
